@@ -38,4 +38,6 @@ public class Pen {
     public int hashCode() {
         return Objects.hash(color, thickness);
     }
+
+    
 }
